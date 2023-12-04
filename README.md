@@ -4,6 +4,7 @@
 The ESPSmartClock8266 isn't your average alarm clock. This smart and modern timekeeper, powered by the versatile ESP8266 chip, is your gateway to a world of convenience and connectivity right on your desk.
 
 ![20231204_123233](https://github.com/DavinAbielGinting/ESPSmartClock8266/assets/152792615/d99ee7a9-d181-45b7-ac4f-0e257034446b)
+This is The ESPSmartClock8266 Without it's case (3D Printed Case File Will Be Uploaded)
 
 
 **Here's what makes the ESPSmartClock8266 tick:**
