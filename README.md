@@ -22,6 +22,7 @@ This is The ESPSmartClock8266 Without it's case (3D Printed Case File Will Be Up
 * **Multiple display options:** Don't just settle for time. Choose from a variety of clock faces, weather icons, and even custom animations to personalize your display.
 * **Compact and stylish:** The ESPSmartClock8266 won't hog up your precious desk space. Its sleek and modern design complements any decor, adding a touch of techy elegance to your setup.
 * **You can improve it:**  This project is open source, the schematic, code, PCB, and even the upcoming app code will be posted here, meaning you can improve this device easily.
+  
   **English Documentation Coming Soon**
 
 
