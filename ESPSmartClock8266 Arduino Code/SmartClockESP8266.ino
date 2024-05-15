@@ -65,7 +65,7 @@ void setup() {
   Serial.println(kRecvPin);
   //INSERT YOUR SSID AND PASSWORD HERE
 
-  WiFi.begin("sejuk", "@nova1980");
+  WiFi.begin("PUT YOUR WIFI SSID HERE", "PUT YOUR WIFI PASSWORD HERE");
 
   //CHANGE THE POOL WITH YOUR CITY. SEARCH AT https://www.ntppool.org/zone/@
 
